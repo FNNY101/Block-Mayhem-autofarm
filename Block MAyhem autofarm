@@ -1,10 +1,10 @@
 local allowedPartNames = {
-"Toxic","Common","Uncommon","Rare","Epic", "Legendary", "Mythical", "Godly", "Runic", "Arcane", "Ascendant",
-"Stellar", "Aquavortex", "Serene", "Nebula", "Eternal", "Paragon", "Immortal",
-"Ethereal", "Astral", "Odyssey", "Lunar", "Glisten", "Celestial", "Divine",
-"Leviathan", "Omnipotent", "Desolation", "Empyrean", "Aurora", "Abyssal",
-"Cosmic", "Chronos", "Beyond", "Hypergiant", "Fool", "gnarp", "Gentleman",
-"sevenCRYSTAL", "TheRARESTblock", "Bit", "Icy", "Magma", "Dusk", "Pure", "Aqua", "Life", "Shine", "Matrix", "Arctic", "Andromeda", "Chromatic"
+"Toxic", "Common", "Uncommon", "Rare", "Epic", "Legendary", "Mythical", "Godly", "Runic", "Arcane", "Ascendant",
+"Stellar", "Aquavortex", "Serene", "Nebula", "Eternal", "Paragon", "Immortal", "Ethereal", "Astral", "Odyssey", 
+"Lunar", "Glisten", "Celestial", "Divine", "Leviathan", "Omnipotent", "Desolation", "Empyrean", "Aurora", "Abyssal",
+"Cosmic", "Chronos", "Beyond", "Hypergiant", "Fool", "gnarp", "Gentleman", "sevenCRYSTAL", "TheRARESTblock", 
+"Bit", "Icy", "Magma", "Dusk", "Pure", "Aqua", "Life", "Shine", "Matrix", "Arctic", "Andromeda", "Chromatic", "Flare", 
+
 
 }
 
